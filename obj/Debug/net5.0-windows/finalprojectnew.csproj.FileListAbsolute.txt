@@ -1,0 +1,14 @@
+C:\Users\Dilshani\Documents\nsbm files\Year 1 Semester 2\object oriented programming with c#\group project\finalprojectnew\obj\Debug\net5.0-windows\finalprojectnew.csproj.AssemblyReference.cache
+C:\Users\Dilshani\Documents\nsbm files\Year 1 Semester 2\object oriented programming with c#\group project\finalprojectnew\obj\Debug\net5.0-windows\finalprojectnew.Form1.resources
+C:\Users\Dilshani\Documents\nsbm files\Year 1 Semester 2\object oriented programming with c#\group project\finalprojectnew\obj\Debug\net5.0-windows\finalprojectnew.csproj.GenerateResource.cache
+C:\Users\Dilshani\Documents\nsbm files\Year 1 Semester 2\object oriented programming with c#\group project\finalprojectnew\obj\Debug\net5.0-windows\finalprojectnew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilshani\Documents\nsbm files\Year 1 Semester 2\object oriented programming with c#\group project\finalprojectnew\obj\Debug\net5.0-windows\finalprojectnew.AssemblyInfoInputs.cache
+C:\Users\Dilshani\Documents\nsbm files\Year 1 Semester 2\object oriented programming with c#\group project\finalprojectnew\obj\Debug\net5.0-windows\finalprojectnew.AssemblyInfo.cs
+C:\Users\Dilshani\Documents\nsbm files\Year 1 Semester 2\object oriented programming with c#\group project\finalprojectnew\obj\Debug\net5.0-windows\finalprojectnew.csproj.CoreCompileInputs.cache
+C:\Users\Dilshani\Google Drive\Nsbm year 1 semester 2 stuff\C#\Group project\Dilshanis work\obj\Debug\net5.0-windows\finalprojectnew.csproj.AssemblyReference.cache
+C:\Users\Dilshani\Google Drive\Nsbm year 1 semester 2 stuff\C#\Group project\Dilshanis work\obj\Debug\net5.0-windows\finalprojectnew.Form1.resources
+C:\Users\Dilshani\Google Drive\Nsbm year 1 semester 2 stuff\C#\Group project\Dilshanis work\obj\Debug\net5.0-windows\finalprojectnew.csproj.GenerateResource.cache
+C:\Users\Dilshani\Google Drive\Nsbm year 1 semester 2 stuff\C#\Group project\Dilshanis work\obj\Debug\net5.0-windows\finalprojectnew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilshani\Google Drive\Nsbm year 1 semester 2 stuff\C#\Group project\Dilshanis work\obj\Debug\net5.0-windows\finalprojectnew.AssemblyInfoInputs.cache
+C:\Users\Dilshani\Google Drive\Nsbm year 1 semester 2 stuff\C#\Group project\Dilshanis work\obj\Debug\net5.0-windows\finalprojectnew.AssemblyInfo.cs
+C:\Users\Dilshani\Google Drive\Nsbm year 1 semester 2 stuff\C#\Group project\Dilshanis work\obj\Debug\net5.0-windows\finalprojectnew.csproj.CoreCompileInputs.cache
